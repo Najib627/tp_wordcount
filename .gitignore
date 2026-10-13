@@ -1,0 +1,4 @@
+venv/
+donnees/
+hadoop_out/
+.ipynb_checkpoints/
